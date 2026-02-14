@@ -1,7 +1,7 @@
 {
   "cpuId": "1F8BFBFF000606A61F8BFBFF000606A6",
   "deviceCount": 956,
-  "registeredAt": "2026-02-14T13:03:14Z",
+  "registeredAt": "2026-02-14T13:30:09Z",
   "publicIp": "212.156.17.174",
   "licenseEndDate": "21-06-2028 08:47:24",
   "mac": "00:50:56:9E:C4:0D",
@@ -11,5 +11,5 @@
   "mainboardId": "VMware-421e6f08b4cc6e78-27be6fcecff7f0fb",
   "collectorCount": 0,
   "company": "AS9121-MNT",
-  "lastReport": "2026-02-14T13:03:14Z"
+  "lastReport": "2026-02-14T13:30:09Z"
 }
