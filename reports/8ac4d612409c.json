@@ -5,10 +5,10 @@
   "deviceCount": 0,
   "mainboardId": "5CD8522CC6",
   "registeredAt": "2026-02-20T04:06:32Z",
-  "collectorCount": 0,
+  "collectorCount": 8,
   "publicIp": "70.95.200.107",
   "licenseEndDate": "28-03-2026 06:00:32",
   "mac": "0A:00:27:00:00:0D",
   "localInterfaceCount": 33,
-  "lastReport": "2026-02-26T10:27:00Z"
+  "lastReport": "2026-02-26T11:27:02Z"
 }
