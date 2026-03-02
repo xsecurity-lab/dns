@@ -4,11 +4,11 @@
   "cpuId": "1F8BFBFF000506571F8BFBFF00050657",
   "deviceCount": 0,
   "mainboardId": "VMware-421c61aebe63b31f-7413a8a99c81edc8",
-  "registeredAt": "2026-03-02T09:54:32Z",
+  "registeredAt": "2026-03-02T09:54:33Z",
   "collectorCount": 0,
   "publicIp": "213.14.126.250",
-  "licenseEndDate": "01-04-2026 09:54:28",
+  "licenseEndDate": "01-04-2026 10:24:04",
   "mac": "00:50:56:05:27:7E",
   "localInterfaceCount": 4,
-  "lastReport": "2026-03-02T09:54:32Z"
+  "lastReport": "2026-03-02T10:24:06Z"
 }
