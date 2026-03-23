@@ -1,0 +1,14 @@
+{
+  "licenseType": "LOCAL",
+  "hostname": "app-hyas",
+  "cpuId": "1F8BFBFF000606A6",
+  "deviceCount": 0,
+  "mainboardId": "VMware-422862573fa80f5e-9d5075c56966f3dd",
+  "registeredAt": "2026-03-23T11:21:39Z",
+  "collectorCount": 0,
+  "publicIp": "193.200.188.2",
+  "licenseEndDate": "22-04-2026 11:21:33",
+  "mac": "00:50:56:A8:0B:63",
+  "localInterfaceCount": 5,
+  "lastReport": "2026-03-23T11:21:39Z"
+}
