@@ -5,10 +5,10 @@
   "deviceCount": 0,
   "mainboardId": "VMware-4215fca95d9f9a31-fb90415240acbac7",
   "registeredAt": "2026-03-19T21:16:03Z",
-  "collectorCount": 12,
+  "collectorCount": 0,
   "publicIp": "37.9.202.62",
-  "licenseEndDate": "20-04-2026 21:31:59",
+  "licenseEndDate": "26-04-2026 10:18:39",
   "mac": "00:50:56:01:48:1D",
   "localInterfaceCount": 5,
-  "lastReport": "2026-03-26T22:32:41Z"
+  "lastReport": "2026-03-27T10:18:44Z"
 }
