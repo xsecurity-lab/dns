@@ -2,13 +2,13 @@
   "licenseType": "LOCAL",
   "hostname": "TRYKHYSPROD",
   "cpuId": "1F8BFBFF000606A61F8BFBFF000606A6",
-  "deviceCount": 801,
+  "deviceCount": 811,
   "mainboardId": "VMware-421e6f08b4cc6e78-27be6fcecff7f0fb",
-  "registeredAt": "2026-04-04T12:05:25Z",
-  "collectorCount": 12,
+  "registeredAt": "2026-04-05T03:13:32Z",
+  "collectorCount": 0,
   "publicIp": "212.156.17.174",
-  "licenseEndDate": "05-04-2026 22:46:16",
+  "licenseEndDate": "05-06-2026 22:46:16",
   "mac": "00:50:56:9E:C4:0D",
   "localInterfaceCount": 5,
-  "lastReport": "2026-04-04T12:05:25Z"
+  "lastReport": "2026-04-05T03:13:32Z"
 }
