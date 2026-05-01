@@ -1,14 +1,15 @@
 {
+  "cpuId": "1F8BFBFF000606A61F8BFBFF000606A6",
+  "deviceCount": 8,
+  "registeredAt": "2026-05-01T12:49:37Z",
+  "publicIp": "212.156.17.174",
+  "licenseEndDate": "31-05-2026 11:47:35",
+  "mac": "00:50:56:9E:C4:0D",
   "licenseType": "LOCAL",
   "hostname": "TRYKHYSPROD",
-  "cpuId": "1F8BFBFF000606A61F8BFBFF000606A6",
-  "deviceCount": 0,
   "mainboardId": "VMware-421e6f08b4cc6e78-27be6fcecff7f0fb",
-  "registeredAt": "2026-04-30T22:51:35Z",
-  "collectorCount": 0,
-  "publicIp": "212.156.17.174",
-  "licenseEndDate": "21-06-2028 08:47:24",
-  "mac": "00:50:56:9E:C4:0D",
+  "collectorCount": 12,
+  "company": "TRYKHYSPROD",
   "localInterfaceCount": 5,
-  "lastReport": "2026-05-01T07:54:28Z"
+  "lastReport": "2026-05-01T12:49:37Z"
 }
