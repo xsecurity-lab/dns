@@ -1,0 +1,15 @@
+{
+  "cpuId": "1F8BFBFF000606A61F8BFBFF000606A6",
+  "deviceCount": 0,
+  "registeredAt": "2026-05-01T11:18:42Z",
+  "publicIp": "212.156.17.174",
+  "licenseEndDate": "31-05-2026 11:18:34",
+  "mac": "00:50:56:9E:C4:0D",
+  "licenseType": "LOCAL",
+  "hostname": "TRYKHYSPROD",
+  "mainboardId": "VMware-421e6f08b4cc6e78-27be6fcecff7f0fb",
+  "collectorCount": 0,
+  "company": "TRYKHYSPROD",
+  "localInterfaceCount": 5,
+  "lastReport": "2026-05-01T11:18:42Z"
+}
