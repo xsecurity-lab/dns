@@ -1,7 +1,7 @@
 {
   "cpuId": "1F8BFBFF000606A61F8BFBFF000606A6",
   "deviceCount": 900,
-  "registeredAt": "2026-05-25T08:22:23Z",
+  "registeredAt": "2026-05-25T08:46:09Z",
   "publicIp": "212.156.17.174",
   "licenseEndDate": "31-05-2026 11:47:35",
   "mac": "00:50:56:9E:C4:0D",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "TRYKHYSPROD",
   "localInterfaceCount": 5,
-  "lastReport": "2026-05-25T08:22:23Z"
+  "lastReport": "2026-05-25T08:46:09Z"
 }
