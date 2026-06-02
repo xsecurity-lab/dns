@@ -1,0 +1,15 @@
+{
+  "cpuId": "1F8BFBFF000806F81F8BFBFF000806F81F8BFBFF000806F81F8BFBFF000806F81F8BFBFF000806F81F8BFBFF000806F8",
+  "deviceCount": 0,
+  "registeredAt": "2026-06-02T20:52:14Z",
+  "publicIp": "92.45.66.253",
+  "licenseEndDate": "02-07-2026 20:52:04",
+  "mac": "00:50:56:BC:3D:B0",
+  "licenseType": "LOCAL",
+  "hostname": "HYAS",
+  "mainboardId": "VMware-423c6fa2090a9472-231d191d19534078",
+  "collectorCount": 0,
+  "company": "HYAS",
+  "localInterfaceCount": 5,
+  "lastReport": "2026-06-02T20:52:14Z"
+}
