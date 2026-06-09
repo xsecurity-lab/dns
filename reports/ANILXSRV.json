@@ -1,7 +1,7 @@
 {
   "cpuId": "1F8BFBFF000306F21F8BFBFF000306F2",
   "deviceCount": 0,
-  "registeredAt": "2026-06-09T10:24:46Z",
+  "registeredAt": "2026-06-09T10:24:48Z",
   "publicIp": "176.236.74.186",
   "licenseEndDate": "09-07-2026 10:24:43",
   "mac": "00:15:5D:63:64:01",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "ANILXSRV",
   "localInterfaceCount": 4,
-  "lastReport": "2026-06-09T10:24:46Z"
+  "lastReport": "2026-06-09T10:58:35Z"
 }
