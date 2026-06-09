@@ -1,7 +1,7 @@
 {
   "cpuId": "BFEBFBFF000906E9",
   "deviceCount": 0,
-  "registeredAt": "2026-06-09T23:56:28Z",
+  "registeredAt": "2026-06-09T23:56:29Z",
   "publicIp": "88.230.84.17",
   "licenseEndDate": "09-07-2026 23:56:22",
   "mac": "0A:00:27:00:00:09",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "KARA",
   "localInterfaceCount": 41,
-  "lastReport": "2026-06-09T23:56:28Z"
+  "lastReport": "2026-06-10T00:07:15Z"
 }
