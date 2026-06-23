@@ -1,7 +1,7 @@
 {
   "cpuId": "078BFBFF00800F12",
   "deviceCount": 0,
-  "registeredAt": "2026-06-13T00:23:11Z",
+  "registeredAt": "2026-06-23T11:09:03Z",
   "publicIp": "173.212.209.24",
   "licenseEndDate": "21-07-2026 22:34:03",
   "mac": "00:50:56:59:08:30",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "Evmakina",
   "localInterfaceCount": 4,
-  "lastReport": "2026-06-23T09:39:09Z"
+  "lastReport": "2026-06-23T11:09:03Z"
 }
