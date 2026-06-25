@@ -1,0 +1,15 @@
+{
+  "cpuId": "0FABFBFF000206C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C2",
+  "deviceCount": 0,
+  "registeredAt": "2026-06-25T10:20:12Z",
+  "publicIp": "193.35.200.178",
+  "licenseEndDate": "21-12-2026 22:34:03",
+  "mac": "00:0C:29:72:02:C2",
+  "licenseType": "LOCAL",
+  "hostname": "WIN-7NVE44FTF94",
+  "mainboardId": "VMware-564dd45fbcd27123-0ccfc809b17202c2",
+  "collectorCount": 8,
+  "company": "Evmakina",
+  "localInterfaceCount": 4,
+  "lastReport": "2026-06-25T10:20:12Z"
+}
