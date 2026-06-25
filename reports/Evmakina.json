@@ -1,7 +1,7 @@
 {
   "cpuId": "0FABFBFF000206C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C2",
   "deviceCount": 0,
-  "registeredAt": "2026-06-25T09:20:10Z",
+  "registeredAt": "2026-06-25T10:20:13Z",
   "publicIp": "193.35.200.178",
   "licenseEndDate": "21-12-2026 22:34:03",
   "mac": "00:0C:29:72:02:C2",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "Evmakina",
   "localInterfaceCount": 4,
-  "lastReport": "2026-06-25T09:20:10Z"
+  "lastReport": "2026-06-25T10:46:06Z"
 }
