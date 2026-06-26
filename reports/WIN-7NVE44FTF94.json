@@ -1,9 +1,9 @@
 {
   "cpuId": "0FABFBFF000206C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C20FABFBFF000006C2",
   "deviceCount": 0,
-  "registeredAt": "2026-06-24T13:36:27Z",
+  "registeredAt": "2026-06-25T10:20:13Z",
   "publicIp": "193.35.200.178",
-  "licenseEndDate": "24-07-2026 13:26:25",
+  "licenseEndDate": "26-07-2026 14:15:02",
   "mac": "00:0C:29:72:02:C2",
   "licenseType": "LOCAL",
   "hostname": "WIN-7NVE44FTF94",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "WIN-7NVE44FTF94",
   "localInterfaceCount": 4,
-  "lastReport": "2026-06-24T14:42:00Z"
+  "lastReport": "2026-06-26T14:25:02Z"
 }
