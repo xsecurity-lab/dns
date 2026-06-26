@@ -3,7 +3,7 @@
   "deviceCount": 0,
   "registeredAt": "2026-06-25T10:20:13Z",
   "publicIp": "193.35.200.178",
-  "licenseEndDate": "26-07-2026 14:15:02",
+  "licenseEndDate": "26-07-2026 16:27:24",
   "mac": "00:0C:29:72:02:C2",
   "licenseType": "LOCAL",
   "hostname": "WIN-7NVE44FTF94",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "WIN-7NVE44FTF94",
   "localInterfaceCount": 4,
-  "lastReport": "2026-06-26T16:13:44Z"
+  "lastReport": "2026-06-26T16:27:38Z"
 }
