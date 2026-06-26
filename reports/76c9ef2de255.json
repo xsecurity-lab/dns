@@ -3,13 +3,13 @@
   "deviceCount": 0,
   "registeredAt": "2026-06-25T10:20:13Z",
   "publicIp": "193.35.200.178",
-  "licenseEndDate": "21-12-2026 22:34:03",
+  "licenseEndDate": "26-07-2026 14:15:02",
   "mac": "00:0C:29:72:02:C2",
   "licenseType": "LOCAL",
   "hostname": "WIN-7NVE44FTF94",
   "mainboardId": "VMware-564dd45fbcd27123-0ccfc809b17202c2",
-  "collectorCount": 8,
-  "company": "Evmakina",
+  "collectorCount": 6,
+  "company": "WIN-7NVE44FTF94",
   "localInterfaceCount": 4,
-  "lastReport": "2026-06-25T21:27:22Z"
+  "lastReport": "2026-06-26T15:25:04Z"
 }
