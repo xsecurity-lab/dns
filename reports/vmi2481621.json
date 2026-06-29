@@ -1,7 +1,7 @@
 {
   "cpuId": "078BFBFF00800F12",
   "deviceCount": 0,
-  "registeredAt": "2026-06-29T02:52:06Z",
+  "registeredAt": "2026-06-29T03:02:08Z",
   "publicIp": "173.212.209.24",
   "licenseEndDate": "27-07-2026 07:41:54",
   "mac": "00:50:56:59:08:30",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "vmi2481621",
   "localInterfaceCount": 4,
-  "lastReport": "2026-06-29T02:52:06Z"
+  "lastReport": "2026-06-29T03:02:08Z"
 }
