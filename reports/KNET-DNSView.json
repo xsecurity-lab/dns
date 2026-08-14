@@ -1,0 +1,15 @@
+{
+  "cpuId": "078BFBFF000606A0078BFBFF000606A0078BFBFF000606A0",
+  "deviceCount": 0,
+  "registeredAt": "2026-08-14T15:58:19Z",
+  "publicIp": "unknown",
+  "licenseEndDate": "13-09-2026 14:09:56",
+  "mac": "50:6B:8D:AA:B0:9A",
+  "licenseType": "LOCAL",
+  "hostname": "KNET-DNSView",
+  "mainboardId": "06CB7F8C-0CB6-4171-81F6-23A9ED301886",
+  "collectorCount": 0,
+  "company": "KNET-DNSView",
+  "localInterfaceCount": 4,
+  "lastReport": "2026-08-14T15:58:19Z"
+}
