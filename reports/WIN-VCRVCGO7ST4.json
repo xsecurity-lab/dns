@@ -1,7 +1,7 @@
 {
   "cpuId": "178BFBFF00B40F40",
   "deviceCount": 0,
-  "registeredAt": "2026-08-18T12:02:02Z",
+  "registeredAt": "2026-08-18T12:02:03Z",
   "publicIp": "70.95.200.107",
   "licenseEndDate": "16-09-2026 21:00:23",
   "mac": "00:0C:29:26:6B:30",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "WIN-VCRVCGO7ST4",
   "localInterfaceCount": 4,
-  "lastReport": "2026-08-18T12:02:02Z"
+  "lastReport": "2026-08-18T12:02:13Z"
 }
