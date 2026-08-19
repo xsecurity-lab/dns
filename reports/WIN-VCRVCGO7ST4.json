@@ -3,7 +3,7 @@
   "deviceCount": 0,
   "registeredAt": "2026-08-18T12:02:03Z",
   "publicIp": "70.95.200.107",
-  "licenseEndDate": "16-09-2026 21:00:23",
+  "licenseEndDate": "18-09-2026 14:49:58",
   "mac": "00:0C:29:26:6B:30",
   "licenseType": "LOCAL",
   "hostname": "WIN-VCRVCGO7ST4",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "WIN-VCRVCGO7ST4",
   "localInterfaceCount": 4,
-  "lastReport": "2026-08-19T14:35:07Z"
+  "lastReport": "2026-08-19T14:50:05Z"
 }
