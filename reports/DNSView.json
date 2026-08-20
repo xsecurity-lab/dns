@@ -1,0 +1,15 @@
+{
+  "cpuId": "0F8BFBFF000506570F8BFBFF000506570F8BFBFF000506570F8BFBFF000506570F8BFBFF000506570F8BFBFF000506570F8BFBFF000506570F8BFBFF00050657",
+  "deviceCount": 0,
+  "registeredAt": "2026-08-20T20:42:21Z",
+  "publicIp": "88.217.225.126",
+  "licenseEndDate": "19-09-2026 20:42:10",
+  "mac": "00:0C:29:B4:42:17",
+  "licenseType": "LOCAL",
+  "hostname": "DNSView",
+  "mainboardId": "VMware-564d91a9c1b20b11-c6639f0805b44217",
+  "collectorCount": 0,
+  "company": "DNSView",
+  "localInterfaceCount": 4,
+  "lastReport": "2026-08-20T20:42:21Z"
+}
