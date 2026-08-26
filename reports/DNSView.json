@@ -3,7 +3,7 @@
   "deviceCount": 0,
   "registeredAt": "2026-08-20T20:42:22Z",
   "publicIp": "88.217.225.126",
-  "licenseEndDate": "19-09-2026 20:42:10",
+  "licenseEndDate": "25-09-2026 23:39:50",
   "mac": "00:0C:29:B4:42:17",
   "licenseType": "LOCAL",
   "hostname": "DNSView",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "DNSView",
   "localInterfaceCount": 4,
-  "lastReport": "2026-08-20T21:23:57Z"
+  "lastReport": "2026-08-26T23:40:00Z"
 }
