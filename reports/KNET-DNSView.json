@@ -3,7 +3,7 @@
   "deviceCount": 0,
   "registeredAt": "2026-08-14T15:58:20Z",
   "publicIp": "unknown",
-  "licenseEndDate": "13-09-2026 14:09:56",
+  "licenseEndDate": "27-09-2026 15:28:54",
   "mac": "50:6B:8D:AA:B0:9A",
   "licenseType": "LOCAL",
   "hostname": "KNET-DNSView",
@@ -11,5 +11,5 @@
   "collectorCount": 0,
   "company": "KNET-DNSView",
   "localInterfaceCount": 4,
-  "lastReport": "2026-08-28T15:19:35Z"
+  "lastReport": "2026-08-28T15:29:11Z"
 }
