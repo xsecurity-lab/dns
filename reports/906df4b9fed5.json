@@ -4,11 +4,11 @@
   "cpuId": "178BFBFF00A10F11",
   "deviceCount": 0,
   "mainboardId": "",
-  "registeredAt": "2026-09-01T13:04:26Z",
-  "collectorCount": 0,
+  "registeredAt": "2026-09-01T13:04:27Z",
+  "collectorCount": 6,
   "publicIp": "65.21.161.182",
   "licenseEndDate": "01-10-2026 13:04:24",
   "mac": "BC:24:11:CB:37:C0",
   "localInterfaceCount": 4,
-  "lastReport": "2026-09-01T13:04:26Z"
+  "lastReport": "2026-09-01T14:04:28Z"
 }
